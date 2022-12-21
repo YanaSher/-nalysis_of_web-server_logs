@@ -1,0 +1,29 @@
+[
+    {
+        "count_requests": 77,
+        "top_3_ip": [
+            [
+                "185.6.8.3",
+                7
+            ],
+            [
+                "147.87.254.50",
+                6
+            ],
+            [
+                "205.167.170.15",
+                4
+            ]
+        ],
+        "get_requests_count": 56,
+        "post_requests_count": 21,
+        "head_requests_count": 0,
+        "put_requests_count": 0,
+        "delete_requests_count": 0,
+        "top_3_longest_requests": {
+            "POST 95.29.198.15 /administrator/index.php 12/Dec/2015:18:32:11": "9865",
+            "POST 37.1.206.196 /administrator/index.php 18/Feb/2016:03:17:02": "9842",
+            "POST 81.88.222.215 /administrator/index.php 12/Dec/2015:19:20:57": "9395"
+        }
+    }
+]
